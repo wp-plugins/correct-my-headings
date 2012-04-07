@@ -169,7 +169,7 @@ function cmh_render_form() {
 						<label>
 							<input name="cmh_options[rdo_group_one]" type="radio" value="h3" <?php checked('h3', $options['rdo_group_one']); ?> />
 							My subheadings start from the H3 level: <strong>turn them up</strong> a level on single posts or pages<br />
-							<span style="color:#666666;">H3's become H2's, H4's become H3's, H5's become H6's and H6's become H5's</span>
+							<span style="color:#666666;">H3's become H2's, H4's become H3's, H5's become H4's and H6's become H5's</span>
 						</label>
 						<br /><br />
 

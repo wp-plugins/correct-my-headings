@@ -19,7 +19,7 @@ You will be able to select one of the following two options (the first one being
 *H2's become H3's, H3's become H4's, H4's become H5's, H5's become H6's and H6's become paragraphs*
 
 * My subheadings start from the H3 level: **turn them up** a level on single posts or pages.
-*H3's become H2's, H4's become H3's, H5's become H6's and H6's become H5's*
+*H3's become H2's, H4's become H3's, H5's become H4's and H6's become H5's*
 
 
 **This plugin does not make any changes to your database**: the subheadings will **only be displayed differently** on the front-end site. 
