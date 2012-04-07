@@ -25,6 +25,8 @@ You will be able to select one of the following two options (the first one being
 **This plugin does not make any changes to your database**: the subheadings will **only be displayed differently** on the front-end site. 
 If you disable the plugin or decide to uninstall it everything will be back to normal.
 
+Visit the <a href="http://www.vileworks.com/correct-my-headings" title="Correct My Headings">plugin page</a> on VileWorks.com.
+
 
 == Installation ==
 
